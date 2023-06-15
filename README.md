@@ -1,4 +1,4 @@
-<h1 align="left">Hi, Dev! <img src="gif_fred_d.gif" width="25px"> </h1>
+<h1 align="left">Hi, dev! <img src="gif_fred_d.gif" width="25px"> </h1>
 
 ###  Turn off the screens! 📺
 

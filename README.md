@@ -1,3 +1,6 @@
+<h1 align="left">What's up 🤙</h1>
+###
+
 ### Salve, fml! Turn off the screens! <img src="gif_fred_d.gif" width="25px"> 
 ###
 ▪ 👨🏻‍🍳 Cozinheiro de software<br>

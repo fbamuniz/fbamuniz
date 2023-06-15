@@ -1,4 +1,4 @@
-### Salve, fml! Turn off the screens! <img src="gif_fred_d.gif">
+### Salve, fml! Turn off the screens! <img src="gif_fred_d.gif" width="100px">
 <hr>
 ▪ ⚡ Cozinheiro de software<br>
 ▪ ⚡ Web Full Stack + Linux<br>

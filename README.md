@@ -1,5 +1,5 @@
 ### Salve, fml! Turn off the screens! <img src="gif_fred_d.gif" width="25px"> 
-<hr>
+###
 ▪ 👨🏻‍🍳 Cozinheiro de software<br>
 ▪ 💻 Web Full Stack + Linux<br>
 ▪ 🤖 Mestre em IA<br>              

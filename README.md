@@ -7,4 +7,5 @@
 - 🤖 Master's Degree in AI<br>
 - 🎓 Full Professor at @CPS<br>
 - ⛅ Linux Cloud & Cyber Security<br>
+- ⛑️ Computer-Aided Design Healthcare Systems
 - 🛠️ Worker since Windows 3.11<br>

@@ -1,4 +1,4 @@
-### Salve, fml! I'am the one who knocks
+### Salve, fml! Turn off the screens! <img src="gif_fred_d.gif">
 <hr>
 ▪ ⚡ Cozinheiro de software<br>
 ▪ ⚡ Web Full Stack + Linux<br>

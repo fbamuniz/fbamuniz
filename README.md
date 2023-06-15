@@ -1,10 +1,10 @@
-<h1 align="left">Salve, fml! <img src="gif_fred_d.gif" width="25px"> </h1>
+<h1 align="left">Hi, fml! <img src="gif_fred_d.gif" width="25px"> </h1>
 
 ###  Turn off the screens! 
 
 ▪ 👨🏻‍🍳 Cozinheiro de software<br>
 ▪ 💻 Web Full Stack + Linux<br>
-▪ 🤖 Mestre em IA<br>              
+▪ 🤖 Mestre em IA<br>
 ▪ 🎓 Tenho umas pós aí também!<br>
 ▪ 🛠️ Worker since Windows 3.11<br>
 <br><br>

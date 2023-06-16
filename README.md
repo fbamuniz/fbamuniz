@@ -5,7 +5,7 @@
 - 👨🏻‍🍳 Software Cook<br>
 - 💻 Web Full Stack<br>
 - 🤖 Master's Degree in AI + Biomedice at @USP<br>
-- 🎓 Full Professor at @CPS [Fatec,Etec]<br>
+- 🎓 Full Professor at @CPS [FATEC, ETEC]<br>
 - ⛅ Linux Cloud & Cyber Security<br>
 - ⛑️ Computer-Aided Design Healthcare Systems
 - 🛠️ Worker since Windows 3.11<br>

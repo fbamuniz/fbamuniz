@@ -11,7 +11,3 @@
 - 🛠️ Worker since Windows 3.11<br>
 
 📢 Os códigos-fonte deste perfil são dedicados especialmente a alunos e professores de cursos de computação. Aos professores, o material pode ser reutilizado livremente em sala de aula, desde que redirecionado para este perfil. Já para alunos, os códigos podem ser incorporados em seus projetos sem restrição. Para ambos, serão regidas as políticas de uso da MIT License. Não é permitido copiar na integra os códigos-fonte para outro sistema (GitHub, Teams, Discord etc). Utilize a URL do diretório para compartilhamento!<br>
-
-![Alt Text](https://media.tenor.com/-LH1JDuinOYAAAAd/john-cena-dance.gif)
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)

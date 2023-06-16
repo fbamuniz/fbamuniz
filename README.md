@@ -8,7 +8,7 @@
 - 🎓 Full Professor at @CPS<br>
 - ⛅ Linux Cloud & Cyber Security<br>
 - ⛑️ Computer-Aided Design Healthcare Systems
-- 🛠️ Worker since Windows 3.11<br>
+- 🛠️ IT Worker since Windows 3.11<br>
 
 <h1 align="left"></h1>
 

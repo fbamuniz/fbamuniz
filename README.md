@@ -1,5 +1,5 @@
 <h1 align="left">Hi, dev! <img src="gif_fred_d.gif" width="25px"></h1>
-📺
+<h1>📺</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Turn+off+the+screens!)](https://git.io/typing-svg)
 

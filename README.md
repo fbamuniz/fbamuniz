@@ -1,6 +1,6 @@
 <h1 align="left">Hi, dev! <img src="gif_fred_d.gif" width="25px"></h1>
 
-###  Turn off the screens! 📺
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Turn+off+the+screens!)](https://git.io/typing-svg) 📺
 
 - 👨🏻‍🍳 Software Cook<br>
 - 💻 Web Full Stack<br>

@@ -2,7 +2,6 @@
 <p width="250px">📺</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Turn+off+the+screens!)](https://git.io/typing-svg)
-
 - 👨🏻‍🍳 Software Cook<br>
 - 💻 Web Full Stack<br>
 - 🤖 Master's Degree in AI + Biomedice at @USP<br>

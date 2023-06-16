@@ -10,4 +10,4 @@
 - ⛑️ Computer-Aided Design Healthcare Systems
 - 🛠️ Worker since Windows 3.11<br>
 
-❕Os códigos-fonte deste perfil são dedicados especialmente a alunos e professores de cursos de computação, que procuram material de aula sobre esses assuntos. Aos professores, o material pode ser reutilizado livremente em sala de aula, desde que redirecionado para este perfil. Já para alunos, os códigos podem ser incorporados em seus projetos sem restrição. Para ambos os casos, serão regidos pela política de uso da MIT License. Não é permitido copiar na integra os códigos para outro sistema. Utilize a URL do diretório.
+📢 Os códigos-fonte deste perfil são dedicados especialmente a alunos e professores de cursos de computação. Aos professores, o material pode ser reutilizado livremente em sala de aula, desde que redirecionado para este perfil. Já para alunos, os códigos podem ser incorporados em seus projetos sem restrição. Para ambos, serão regidos a política de uso da MIT License. Não é permitido copiar na integra os códigos para outro sistema (GitHub, Teams, Discord etc). Utilize a URL do diretório para compartilhamento!

@@ -12,7 +12,7 @@
 
 <h1 align="left"></h1>
 
-📢 Os códigos-fonte deste perfil são dedicados especialmente à alunos e professores de cursos de computação. Aos professores, o material pode ser reutilizado livremente em sala de aula, desde que redirecionado para este perfil (utilize a URL do diretório para compartilhamento). Não é permitido copiar na íntegra os códigos-fonte para outro sistema (GitHub, Teams, Discord etc). Aos alunos, os códigos podem ser incorporados em seus projetos sem restrição. Para ambos, serão regidas as políticas de uso da MIT License.<br>
+📢 Os códigos-fonte deste perfil são dedicados especialmente à alunos e professores de cursos de Computação. Aos professores, o material pode ser reutilizado livremente em sala de aula, desde que redirecionado para este perfil (utilize a URL do diretório para compartilhamento). Não é permitido copiar na íntegra os códigos-fonte para outros sistemas (GitHub, Teams, Discord etc). Aos alunos, os códigos podem ser incorporados em seus projetos sem restrições. Para ambos, serão regidas as políticas de uso da MIT License.<br>
 
 <a href="https://github.com/fbamuniz/fbamuniz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbamuniz&show_icons=true&line_height=27&theme=default" alt="GitHub Stats"/>

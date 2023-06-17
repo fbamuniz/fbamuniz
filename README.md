@@ -5,7 +5,7 @@
 - 👨🏻‍🍳 Software Cook Full Stack<br>
 - 🎓 Full Professor at @CPS<br>
 - 🤖 Master's Degree in AI + Biomedice at @USP<br>
-- ⚙ Software Engineering Specialist at @UFPR<br>
+- ⚙ Spec in Software Engineering at @UFPR<br>
 - ⛑️ Computer-Aided Design Healthcare Systems<br>
 - ⛅ Linux Cloud & Cyber Security<br>
 - 🛠️ IT Worker since Windows 3.11<br>

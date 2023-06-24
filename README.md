@@ -2,12 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Turn+off+the+screens!)](https://git.io/typing-svg)
 
-- 👨🏻‍🍳 Software Cook Full Stack<br>
+<b>Features</b>:
+- 👨🏻‍🍳 Software 'Cook' Full Stack<br>
 - 🎓 Full Professor at @CPS<br>
 - 🤖 Master's Degree in AI + Biomedice at @USP<br>
 - ⚙ Spec in Software Engineering at @UFPR<br>
 - ⛑️ Computer-Aided Design Healthcare Systems<br>
-- ⛅ Linux Cloud & Cyber Security<br>
+- ⛅ 'Spellhowler' in Linux Cloud & Cyber Security<br>
 - 🛠️ IT Worker since Windows 3.11<br>
 
 <h1 align="left"></h1>

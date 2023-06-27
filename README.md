@@ -18,5 +18,3 @@
 <a href="https://github.com/fbamuniz/fbamuniz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbamuniz&show_icons=true&line_height=27&theme=default" alt="GitHub Stats"/>
 </a>
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fbamuniz)](https://open.spotify.com/user/fbamuniz)
